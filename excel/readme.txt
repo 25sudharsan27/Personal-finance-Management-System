@@ -1,0 +1,1 @@
+This excel folder was to store instant statement after entering data for today purchase, it contains for every day.
